@@ -1,0 +1,6 @@
+# Ignore all directories
+/*
+
+# Except Curriculum Notes
+!Curriculum Notes/
+!.gitignore
